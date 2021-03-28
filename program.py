@@ -3,7 +3,7 @@ import random
 import time
 from actors import Wizard, Creature
 
-#test commit
+#commit from rosebook
 def main():
     print_header()
     game_loop()
